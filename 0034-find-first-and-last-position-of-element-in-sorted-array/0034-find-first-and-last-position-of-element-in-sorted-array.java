@@ -1,19 +1,53 @@
 class Solution {
-    public int[] searchRange(int[] n, int target) {
-        if(n.length==0){
-         return new int[]{-1,-1}; 
+    static int LowBound(int []A,int x){
+        int n=A.length;
+        int i=0;
+        int j=n-1;
+        int ans=n;
+        while(i<=j){
+            int m=(i+j)/2;
+            if(A[m]>=x){
+                ans=m;
+                j=m-1;
+            }
+            else{
+                i=m+1;
+            }
         }
-        int []a=new int[n.length];
-        int x=0;
-       for(int i=0;i<n.length;i++){
-           if(n[i]==target){
-               a[x]=i;
-             
-               x++;
-           }
-       } 
-       if(x==0) return new int[]{-1,-1};
-       return new int[] {a[0],a[x-1]};
-      //  return new int[]{-1,-9}; 
+        return ans;
+    }
+        static int UpperBound(int []A,int x){
+        int n=A.length;
+        int i=0;
+        int j=n-1;
+        int ans=n;
+        while(i<=j){
+            int m=(i+j)/2;
+            if(A[m]>x){
+                ans=m;
+                j=m-1;
+            }
+            else{
+                i=m+1;
+            }
+        }
+        return ans;
+    }
+    public int[] searchRange(int[] A, int t) {
+        int ans[]=new int[2];
+        ans[0]=-1;
+        ans[1]=-1;
+       if(A.length==0){
+         return ans;
+       }
+       int lb=LowBound(A,t);
+       int ub=UpperBound(A,t);
+
+       if(lb==A.length || A[lb]!=t) return ans;
+       else {
+        ans[0]=lb;
+        ans[1]=ub-1;
+        return ans;
+       }
     }
 }
