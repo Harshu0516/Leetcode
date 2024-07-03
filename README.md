@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Harshu0516/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Harshu0516/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
