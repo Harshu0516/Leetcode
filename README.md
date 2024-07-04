@@ -38,13 +38,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshu0516/Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshu0516/Leetcode/tree/master/0002-add-two-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Harshu0516/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Harshu0516/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshu0516/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
