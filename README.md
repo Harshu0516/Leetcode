@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshu0516/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Harshu0516/Leetcode/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshu0516/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshu0516/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshu0516/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Harshu0516/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Harshu0516/Leetcode/tree/master/0061-rotate-list) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Harshu0516/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
