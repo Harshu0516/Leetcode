@@ -91,10 +91,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshu0516/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshu0516/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshu0516/Leetcode/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshu0516/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
