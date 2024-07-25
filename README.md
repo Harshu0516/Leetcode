@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harshu0516/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Harshu0516/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Harshu0516/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshu0516/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -159,7 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Harshu0516/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Harshu0516/Leetcode/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Harshu0516/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
