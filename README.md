@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshu0516/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Harshu0516/Leetcode/tree/master/0231-power-of-two) |
 | [1585-the-kth-factor-of-n](https://github.com/Harshu0516/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1610-xor-operation-in-an-array](https://github.com/Harshu0516/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Harshu0516/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Harshu0516/Leetcode/tree/master/0338-counting-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/Harshu0516/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Harshu0516/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
