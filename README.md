@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshu0516/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshu0516/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Harshu0516/Leetcode/tree/master/0242-valid-anagram) |
 ## Union Find
 |  |
 | ------- |
@@ -123,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Harshu0516/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshu0516/Leetcode/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/Harshu0516/Leetcode/tree/master/0242-valid-anagram) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshu0516/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshu0516/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Harshu0516/Leetcode/tree/master/0242-valid-anagram) |
 | [1542-consecutive-characters](https://github.com/Harshu0516/Leetcode/tree/master/1542-consecutive-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Design
