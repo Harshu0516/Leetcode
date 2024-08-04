@@ -7,7 +7,7 @@ class Solution {
         int L=0;
         int R=0;
         int si=-1;
-        int hash[]=new int[256];
+        int hash[]=new int[128];
         for(int i=0;i<m;i++){
             hash[p.charAt(i)]++;
         }
