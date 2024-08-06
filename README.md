@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harshu0516/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshu0516/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshu0516/Leetcode/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshu0516/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshu0516/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshu0516/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshu0516/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harshu0516/Leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Harshu0516/Leetcode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshu0516/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
