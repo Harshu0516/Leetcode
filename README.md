@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Harshu0516/Leetcode/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Harshu0516/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshu0516/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Harshu0516/Leetcode/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Queue
 |  |
 | ------- |
