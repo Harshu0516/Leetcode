@@ -6,6 +6,7 @@ class Solution {
         maxi=Math.max(maxi,nums[i]+i);
         if(maxi>=nums.length-1) return true;
        } 
+       System.gc();
        return true;
     }
 }
