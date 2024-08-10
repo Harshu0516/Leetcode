@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harshu0516/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Harshu0516/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Harshu0516/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Harshu0516/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshu0516/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshu0516/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Harshu0516/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0338-counting-bits](https://github.com/Harshu0516/Leetcode/tree/master/0338-counting-bits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Harshu0516/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Harshu0516/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Harshu0516/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
