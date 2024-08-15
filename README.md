@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshu0516/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Harshu0516/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Harshu0516/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harshu0516/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshu0516/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Harshu0516/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Harshu0516/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Harshu0516/Leetcode/tree/master/0678-valid-parenthesis-string) |
