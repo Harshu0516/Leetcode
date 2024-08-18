@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshu0516/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshu0516/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Harshu0516/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshu0516/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshu0516/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Harshu0516/Leetcode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/Harshu0516/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Harshu0516/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1585-the-kth-factor-of-n](https://github.com/Harshu0516/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Harshu0516/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshu0516/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Harshu0516/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0264-ugly-number-ii](https://github.com/Harshu0516/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/Harshu0516/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Harshu0516/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Harshu0516/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harshu0516/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Harshu0516/Leetcode/tree/master/0264-ugly-number-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
