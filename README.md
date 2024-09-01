@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Harshu0516/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshu0516/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2047-find-a-peak-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Harshu0516/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Harshu0516/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Harshu0516/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshu0516/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshu0516/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Harshu0516/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Harshu0516/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Harshu0516/Leetcode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Harshu0516/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Queue
 |  |
 | ------- |
