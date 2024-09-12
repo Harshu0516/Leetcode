@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Harshu0516/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Harshu0516/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshu0516/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2047-find-a-peak-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshu0516/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Harshu0516/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Harshu0516/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Harshu0516/Leetcode/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Harshu0516/Leetcode/tree/master/1542-consecutive-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/Harshu0516/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Design
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Harshu0516/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Harshu0516/Leetcode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/Harshu0516/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Harshu0516/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
