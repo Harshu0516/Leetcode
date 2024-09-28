@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Harshu0516/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Harshu0516/Leetcode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/Harshu0516/Leetcode/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/Harshu0516/Leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Harshu0516/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Harshu0516/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Harshu0516/Leetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Harshu0516/Leetcode/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/Harshu0516/Leetcode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/Harshu0516/Leetcode/tree/master/0859-design-circular-deque) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harshu0516/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/Harshu0516/Leetcode/tree/master/0859-design-circular-deque) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
