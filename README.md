@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Harshu0516/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harshu0516/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshu0516/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/Harshu0516/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2047-find-a-peak-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshu0516/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1694-make-sum-divisible-by-p](https://github.com/Harshu0516/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Harshu0516/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Harshu0516/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harshu0516/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshu0516/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/Harshu0516/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Counting
 |  |
 | ------- |
