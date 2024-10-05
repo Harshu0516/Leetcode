@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Harshu0516/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshu0516/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Harshu0516/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Harshu0516/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Harshu0516/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harshu0516/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshu0516/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Harshu0516/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harshu0516/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshu0516/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Harshu0516/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshu0516/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Harshu0516/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshu0516/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/Harshu0516/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Harshu0516/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harshu0516/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/Harshu0516/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Harshu0516/Leetcode/tree/master/0812-rotate-string) |
