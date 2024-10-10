@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/Harshu0516/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Harshu0516/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Harshu0516/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harshu0516/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Harshu0516/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshu0516/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Harshu0516/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshu0516/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Harshu0516/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/Harshu0516/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Sorting
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Harshu0516/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Harshu0516/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Harshu0516/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/Harshu0516/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
