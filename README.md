@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Harshu0516/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/Harshu0516/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Harshu0516/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/Harshu0516/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3195-separate-black-and-white-balls](https://github.com/Harshu0516/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshu0516/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Harshu0516/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Harshu0516/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
 | ------- |
