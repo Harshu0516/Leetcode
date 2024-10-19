@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Harshu0516/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Harshu0516/Leetcode/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Harshu0516/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshu0516/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Harshu0516/Leetcode/tree/master/1542-consecutive-characters) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Harshu0516/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/Harshu0516/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Harshu0516/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Harshu0516/Leetcode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Harshu0516/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Harshu0516/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshu0516/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Queue
 |  |
