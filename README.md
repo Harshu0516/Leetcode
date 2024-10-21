@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harshu0516/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harshu0516/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Harshu0516/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Harshu0516/Leetcode/tree/master/1542-consecutive-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Harshu0516/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harshu0516/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Harshu0516/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/Harshu0516/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harshu0516/Leetcode/tree/master/0078-subsets) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Harshu0516/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Greedy
 |  |
 | ------- |
