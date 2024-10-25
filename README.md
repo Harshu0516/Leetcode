@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Harshu0516/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harshu0516/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Harshu0516/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshu0516/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harshu0516/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshu0516/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harshu0516/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Harshu0516/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshu0516/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harshu0516/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshu0516/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Harshu0516/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Harshu0516/Leetcode/tree/master/1542-consecutive-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Harshu0516/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harshu0516/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Harshu0516/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Harshu0516/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshu0516/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Tree
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harshu0516/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshu0516/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Harshu0516/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshu0516/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Graph
 |  |
 | ------- |
