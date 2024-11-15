@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshu0516/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Harshu0516/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshu0516/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Harshu0516/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Harshu0516/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Harshu0516/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Harshu0516/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshu0516/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0729-my-calendar-i](https://github.com/Harshu0516/Leetcode/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Harshu0516/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Harshu0516/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Harshu0516/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2047-find-a-peak-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Harshu0516/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harshu0516/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Harshu0516/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Harshu0516/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshu0516/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshu0516/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Harshu0516/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Harshu0516/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Harshu0516/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Harshu0516/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Harshu0516/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Harshu0516/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Sorting
 |  |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Harshu0516/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Harshu0516/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Harshu0516/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Harshu0516/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Harshu0516/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
